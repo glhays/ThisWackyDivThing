@@ -4,6 +4,41 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>This.Wacky.Div</Title>
+    <Description>This Wacky Div does nothing</Description>
+    <PackageProjectUrl>https://github.com/glhays/ThisWackyDivThing</PackageProjectUrl>
+    <PackageIcon>artificial-intelligence.png</PackageIcon>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Wacky; Div; Thingy</PackageTags>
+    <AssemblyVersion>0.1.0</AssemblyVersion>
+    <FileVersion>0.1n</FileVersion>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>0.1</Version>
+    <Authors>The Standard Community</Authors>
+    <Product>ThisWackyDivThing</Product>
+    <RepositoryUrl>https://github.com/glhays/ThisWackyDivThing</RepositoryUrl>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="artificial-intelligence.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\artificial-intelligence.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
