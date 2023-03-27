@@ -1,7 +1,7 @@
-# ThisWackyDivThing
+###
 
-![AI](https://raw.githubusercontent.com/hassanhabib/OpenAI.NET/main/Standard.AI.OpenAI/artificial-intelligence.png)
+![Github Logo](WackyDivThing/github_logo.png)
 
-## End this sillyness now!
+## End this sillyness now! html divs, p , css - who needs them
 
  
