@@ -4,8 +4,8 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Title>This.Wacky.Div</Title>
-    <Description>This Wacky Div does nothing</Description>
+    <Title>ThisWackyDivThing</Title>
+    <Description>This Wacky Div Thing does nothing</Description>
     <PackageProjectUrl>https://github.com/glhays/ThisWackyDivThing</PackageProjectUrl>
     <PackageIcon>artificial-intelligence.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
